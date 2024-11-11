@@ -1,6 +1,9 @@
 
-.major, .min {
+.major {
     letter-spacing:  1.4rem;
+}
+.min {
+    letter-spacing: 1.6rem;
 }
 .input-tour {
     margin-right: -3px;
